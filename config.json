@@ -1,10 +1,5 @@
 {
-  "tokens": [
-    "b919f153e2613a68a287ab787700acd85faa5d88f65186a9bdf3efae4ec8e08cfe135e17001c11d9a88c7",
-    "b919f153e2613a68a287ab787700acd85faa5d88f65186a9bdf3efae4ec8e08cfe135e17001c11d9a88c7",
-    "b919f153e2613a68a287ab787700acd85faa5d88f65186a9bdf3efae4ec8e08cfe135e17001c11d9a88c7"
-  ],
-  "secret_code": "Kaspesky",
+  
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
